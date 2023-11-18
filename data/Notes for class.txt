@@ -1,8 +1,0 @@
-Thoughts and questions:
-
-- May want to try a cut with precipitation
-- May roll the temps up to a 10 degree bucket
-- Drop columns from the weather dataset
-
-Questions for the mentors
-- Correlation of data
